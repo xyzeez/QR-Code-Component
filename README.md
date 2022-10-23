@@ -25,8 +25,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code-component-femc.netlify.app/)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-D2VqoEIE3k)
+- Live Site URL: [Click Here](https://qr-code-component-femc.netlify.app/)
 
 ## My process
 
